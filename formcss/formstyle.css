@@ -1,0 +1,49 @@
+form {font-size: 25px;
+      color: #81b29a;
+    background-color: #9e2a2b;
+    width: 50%;
+    margin-left: 25%;}
+
+header{color: #22223b;
+      font-size: 50px;
+    background-image: url('../formimages/books.jpeg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 1em;}
+
+
+h2{text-align: center;
+    color: #1b263b;
+  background-color: #99582a;
+padding: .5em;
+height: 30px;}
+
+label{
+  display: block;
+}
+
+body{background-color: #e09f3e;}
+
+#detail{text-align: center;
+        padding-top: 15px;
+      padding-bottom: 20px;}
+#detail2{
+        text-align: center;
+        padding-top: 10px;
+}
+
+#detail3{
+          text-align: center;
+          text-decoration: none;
+          padding: 1em;
+}
+div:hover{color: #a7c957;}
+
+input:hover{color: #073b4c;}
+
+input:focus, textarea:focus{
+  box-shadow: 0 0 5px rgba(100, 255, 0, 2);
+  border: 1px solid rgba(50, 100, 10, 0.5);
+}
